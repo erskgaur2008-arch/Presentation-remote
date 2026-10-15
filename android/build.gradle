@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'in.erskgaur.presentationremote'
+    namespace 'com.erskgaur.presentationremote'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'in.erskgaur.presentationremote'
+        applicationId 'com.erskgaur.presentationremote'
         minSdk 26
         targetSdk 32
         versionCode 1
