@@ -1,4 +1,4 @@
-package in.erskgaur.presentationremote
+package com.erskgaur.presentationremote
 
 import android.Manifest
 import android.app.Activity
